@@ -1,0 +1,7 @@
+{
+  "title": "ConDB",
+  "description": "ConDB for my Conlang",
+  "iconUrl": "https://raw.githubusercontent.com/codesandbox/sandbox-templates/main/python/.codesandbox/icon.png",
+  "tags": ["python", "pip", "featured", "playground"],
+  "published": true
+}
